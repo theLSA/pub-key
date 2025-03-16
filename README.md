@@ -1,10 +1,10 @@
 # thelsa public key
 
-## gpg public key
+## gpg pub key
 
 fingerprint = C722 819E 95CC 1EAB A8B2  A727 0AD6 47B9 A949 7B0C
 
-### gpg sign key
+### gpg sub sign key
 
 [thelsa-gpg-sub-sign-0E68EFFC7BECCD82.asc](https://raw.githubusercontent.com/theLSA/pub-key/master/thelsa-gpg-sub-sign-0E68EFFC7BECCD82.asc)
 
@@ -31,7 +31,7 @@ FcwuYY2xtdvSDjRi5rtjDg==
 
 ## usage
 
-### import public key
+### import sub sign key
 
 ```txt
 gpg --import thelsa-gpg-sub-sign-0E68EFFC7BECCD82.asc
